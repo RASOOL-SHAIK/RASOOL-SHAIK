@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasool-shaik" alt="rasool-shaik" /></a> </p>
 
-- 🔭 I’m currently working on **Amazone Clone project**
+- 🔭 I’m currently working on **AirBnBSpringBootProject**
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **SpringBoot,AWS**
 
 - 📫 How to reach me **rasool78604@gmail.com**
 
