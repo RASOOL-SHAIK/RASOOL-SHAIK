@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasool-shaik" alt="rasool-shaik" /></a> </p>
 
-- 🔭 I’m currently working on **AirBnBSpringBootProject**
+- 🔭 I’m currently working on **AirBnB SpringBoot Project**
 
 - 🌱 I’m currently learning **SpringBoot,AWS**
 
